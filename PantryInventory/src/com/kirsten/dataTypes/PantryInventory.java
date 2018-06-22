@@ -56,7 +56,7 @@ public class PantryInventory {
 			System.out.println( + openedPackagesOfPudding + " packages of pudding that someone stuck their fingers in, and " );
 			System.out.println( + gallonsOfMilk + " gallons of milk." );
 			System.out.println("There is food in the kitchen: " + thereIsFood);
-			System.out.println( "Before the boys eat there are "+ thingsToEat + " things to eat" );
+			System.out.println( "After the boys eat there are "+ thingsToEat + " things to eat" );
 			System.out.println(kitchen );
 		
 
